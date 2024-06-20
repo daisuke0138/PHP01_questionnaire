@@ -1,0 +1,14 @@
+fieldset {
+    width:20vw;
+    padding: 1rem;
+}
+
+.menberimg {
+    width: 15vw;
+    height: 30vh;
+}
+
+.menberimg img{
+    width: 100%;
+    height: 100%;
+}
